@@ -12,7 +12,7 @@ This is an AI-powered information retrieval system that allows users to upload P
 
 
 ## 📸 Screenshot
-![Screenshot](image.png)
+![Screenshot](image-1.png)
 
 ## 🔧 Setup
 ```
